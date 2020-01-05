@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "윤성우 자료구조2", "윤성우 자료구조2\윤성우 자료구조2.vcxproj", "{4BA3D6AF-13EA-4AC6-A5FE-FD843A7ADCA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BA3D6AF-13EA-4AC6-A5FE-FD843A7ADCA7}.Debug|x64.ActiveCfg = Debug|x64
+		{4BA3D6AF-13EA-4AC6-A5FE-FD843A7ADCA7}.Debug|x64.Build.0 = Debug|x64
+		{4BA3D6AF-13EA-4AC6-A5FE-FD843A7ADCA7}.Debug|x86.ActiveCfg = Debug|Win32
+		{4BA3D6AF-13EA-4AC6-A5FE-FD843A7ADCA7}.Debug|x86.Build.0 = Debug|Win32
+		{4BA3D6AF-13EA-4AC6-A5FE-FD843A7ADCA7}.Release|x64.ActiveCfg = Release|x64
+		{4BA3D6AF-13EA-4AC6-A5FE-FD843A7ADCA7}.Release|x64.Build.0 = Release|x64
+		{4BA3D6AF-13EA-4AC6-A5FE-FD843A7ADCA7}.Release|x86.ActiveCfg = Release|Win32
+		{4BA3D6AF-13EA-4AC6-A5FE-FD843A7ADCA7}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A775236A-C37D-4742-A371-CDD89F0B43D7}
+	EndGlobalSection
+EndGlobal
